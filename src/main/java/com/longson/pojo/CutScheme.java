@@ -60,7 +60,6 @@ private String   Printing_bongdin;
 private String   bondingsentDate;
 //烫缝回货期
 private String   bondingreceiveDate ;
-
 private String   piecefinishdate;
 
 
